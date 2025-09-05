@@ -1,0 +1,33 @@
+site:
+  name: "Jayakumar J - Portfolio"
+  description: "Personal portfolio website showcasing skills, projects, education, and experience."
+  author: "Jayakumar J"
+  email: "jayakumarjaik01@gmail.com"
+  phone: "6380799586"
+  location: "7/366 New Colony, Sendanadu, Villupuram"
+  linkedin: "https://www.linkedin.com/in/jayakumar-j23/"
+  github: "https://github.com/jaiGit012"
+  instagram: "jayakumar02"
+
+files:
+  html: "index.html"
+  css: "style.css"
+  js: "script.js"
+  assets:
+    - "img/WhatsApp Image 2025-08-24 at 5.41.33 PM.jpeg"
+
+settings:
+  liveServer:
+    port: 5501
+  darkMode: true
+  responsive: true
+  animations: true
+
+sections:
+  - name: "Career Objective"
+  - name: "Technical Skills"
+  - name: "Projects"
+  - name: "Education"
+  - name: "Certifications"
+  - name: "Internship Experience"
+  - name: "About"
